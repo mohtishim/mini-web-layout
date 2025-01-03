@@ -57,6 +57,7 @@ body {
     background-color: rgb(14, 14, 119);
     color: white;
     height: 30px;
+    width: 30%;
 }
 
 .table2 tr td:hover{
