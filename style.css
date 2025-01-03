@@ -37,7 +37,7 @@
     color: white;
 }
 
-.head2{
+.head2, .div1>h2{
     background-color: rgb(182, 187, 193);
     text-align: center;
     text-transform: uppercase;
@@ -64,3 +64,12 @@
     color: aliceblue;
 
 }
+
+.cut{
+    text-decoration: line-through;
+}
+
+.uline{
+    text-decoration: underline;
+}
+
