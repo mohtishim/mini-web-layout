@@ -24,7 +24,7 @@
     text-align: center;
 }
 
-.about{
+.grocery{
     background-color: rgb(74, 140, 211);
 }
 
@@ -43,6 +43,33 @@
     text-transform: uppercase;
 }
 
-p{
-    text-align: justify;
+.table2{
+    width: 90%;
+    text-align: center;
+    margin: auto;
 }
+
+.table2 tr td{
+    background-color: rgb(14, 14, 119);
+    color: white;
+    height: 30px;
+}
+
+.table2 tr td:hover{
+    background-color:  rgb(74, 140, 211);
+}
+
+.table2 tr td a{
+    text-decoration: none;
+    color: aliceblue;
+
+}
+
+.cut{
+    text-decoration: line-through;
+}
+
+.uline{
+    text-decoration: underline;
+}
+
