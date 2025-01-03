@@ -78,3 +78,13 @@ body {
     text-decoration: underline;
 }
 
+button{
+    position: fixed;
+    right: 2%;
+    bottom: 5%;
+}
+
+button a{
+    text-decoration: none;
+    color: black;
+}
